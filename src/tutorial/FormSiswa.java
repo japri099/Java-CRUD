@@ -11,7 +11,7 @@ import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
 /**
  *
- * @author LENOVO
+ * @author Japri
  */
 public class FormSiswa extends javax.swing.JFrame {
 public Statement st;
